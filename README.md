@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="left">santoskkkaj</h1>
 
-<!--
-**santoskkkaj/santoskkkaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Web Developer @Frontend</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4065F7&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=4065F7&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
+</div>
+
+###
+
+<p align="left">Technology enthusiast, especially web development.</p>
+
+###
+
+<p align="left">Passionate about creating beautiful modern web interfaces and contributing to the community</p>
+
+###
+
+<p align="left">"Good code will always need maintenance"</p>
+
+###
